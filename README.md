@@ -1,6 +1,6 @@
-# MTN
+# MCN
 
-MTN is a comprehensive network management application designed for MTN's clients. The application is currently under development.
+MCN is a comprehensive network management application designed for MCN's clients. The application is currently under development.
 
 ## Planned Features
 
